@@ -1,0 +1,16 @@
+C:\Users\noorulhoda\source\task project\bin\Debug\task project.exe.config
+C:\Users\noorulhoda\source\task project\bin\Debug\task project.exe
+C:\Users\noorulhoda\source\task project\bin\Debug\task project.pdb
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.Properties.Resources.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task project.csproj.GenerateResource.cache
+C:\Users\noorulhoda\source\task project\obj\Debug\task project.csproj.CoreCompileInputs.cache
+C:\Users\noorulhoda\source\task project\obj\Debug\task project.exe
+C:\Users\noorulhoda\source\task project\obj\Debug\task project.pdb
+C:\Users\noorulhoda\source\task project\obj\Debug\task project.csprojAssemblyReference.cache
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.frmSubTask.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.frmTask.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.frmCategory.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.frmLogin.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.frmStart.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.frmTeam.resources
+C:\Users\noorulhoda\source\task project\obj\Debug\task_project.FrmEmployee.resources
